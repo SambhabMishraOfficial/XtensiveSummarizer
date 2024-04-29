@@ -25,6 +25,3 @@ def main():
 
         st.subheader("Summary")
         st.write(summary_text.text)
-
-if_name_=='_main_':
-main()
